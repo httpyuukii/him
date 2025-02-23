@@ -39,5 +39,5 @@ btnYes.addEventListener("click", (e) => {
   btnYes.classList.add("hide");
   imageOne.classList.add("hide");
   imageTwo.classList.remove("hide");
-  imagethree.classlist.remove("hide");
+  imagethree.classList.remove("hide");
 });
